@@ -6,7 +6,7 @@
     <h1>
         Hello, World
     </h1>
-<a href="/Tup100.md">Click me</a>
+    <a href="/docs/Tup100.html">Click me</a>
 
 
 </body>
